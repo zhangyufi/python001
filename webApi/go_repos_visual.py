@@ -48,7 +48,7 @@ my_layout = {
         'size': 28
     },
     'xaxis': {
-        'title': '仓库',
+        'title': 'Repository',
         'titlefont': {
             'size': 24
         },
@@ -57,7 +57,7 @@ my_layout = {
         },
     },
     'yaxis': {
-        'title': '星数',
+        'title': 'Stars',
         'titlefont': {
             'size': 24
         },
